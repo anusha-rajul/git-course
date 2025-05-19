@@ -3,4 +3,6 @@ function add(a, b) {
 }
 
 
-const surname='Rajul'
+const surname = 'Rajul';
+
+console.log(`Surname is ${surname}`)
